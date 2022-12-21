@@ -13063,11 +13063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Tests\\OLX.Web.Tests\\OLX.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Tests\\OLX.Web.Tests\\OLX.Web.Tests.csproj",
       "projectName": "OLX.Web.Tests",
-      "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Tests\\OLX.Web.Tests\\OLX.Web.Tests.csproj",
+      "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Tests\\OLX.Web.Tests\\OLX.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Tests\\OLX.Web.Tests\\obj\\",
+      "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Tests\\OLX.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13084,8 +13084,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\OLX.Web.csproj": {
-              "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\OLX.Web.csproj"
+            "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\OLX.Web.csproj": {
+              "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\OLX.Web.csproj"
             }
           }
         }

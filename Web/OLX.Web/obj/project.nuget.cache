@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gX4OlS8XGsGCFgykViqPGUiWFoGYlf8+qj2CELifwJQJ9Z8DR9vHWI739bh15wWl/eysmer/6o+EtnMJ/xB9rg==",
+  "dgSpecHash": "3QKI3xcmWQOAPNi7c4K5IVPJBTlBkvRvQF88hVTmIuTgQUK+K4lrNZ3YYg5/nrax6hFoKoXWIlv03Pe6jEBWbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\OLX.Web.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\OLX.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

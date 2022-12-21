@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sROgldF+BgTn38zlfsjNJa6mq7mpRAodjSVCAs3C5aDvBtygTDErw1+G1GOLxow0HCmvcT8UnBAfVAos7ZRI1Q==",
+  "dgSpecHash": "B32WtHUbUbVs4Ma5fSxWhfP5sCxwfQ+E7Q+BCTh6UHQd79kXiT9JytwgzeRtq2EUFEvEx22qaPFPdG9OosCnBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"

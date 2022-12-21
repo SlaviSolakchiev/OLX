@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hL9o11XLx9qhcfD+W4JD1ZC5AnqYCE910ER5RNl7YNxYbPYTKghgVVqFak+yMDMMmArE3P+mVw3I8s6b7IS3Ug==",
+  "dgSpecHash": "r0GR9rUYAvmbcGpvBEsdro+WXvIx5+rQNa+GmuRUcFJdyjWFTuiBalNlUGmiVl1l+NLjJ6o2MhOYuGf7pMlV5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",

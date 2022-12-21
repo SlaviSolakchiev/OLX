@@ -171,11 +171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Messaging\\OLX.Services.Messaging.csproj",
+      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Messaging\\OLX.Services.Messaging.csproj",
       "projectName": "OLX.Services.Messaging",
-      "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Messaging\\OLX.Services.Messaging.csproj",
+      "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Messaging\\OLX.Services.Messaging.csproj",
       "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Messaging\\obj\\",
+      "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Messaging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

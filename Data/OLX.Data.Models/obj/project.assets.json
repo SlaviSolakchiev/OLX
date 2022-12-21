@@ -991,11 +991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
+      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
       "projectName": "OLX.Data.Models",
-      "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
+      "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
       "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\obj\\",
+      "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1012,8 +1012,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
-              "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj"
+            "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
+              "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj"
             }
           }
         }

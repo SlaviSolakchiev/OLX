@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\OLX.Services.csproj": {}
+    "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services\\OLX.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\OLX.Services.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services\\OLX.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\OLX.Services.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services\\OLX.Services.csproj",
         "projectName": "OLX.Services",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\OLX.Services.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services\\OLX.Services.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

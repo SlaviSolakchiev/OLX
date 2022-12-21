@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {}
+    "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
         "projectName": "OLX.Data.Common",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

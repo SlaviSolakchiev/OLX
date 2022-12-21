@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {}
+    "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
         "projectName": "OLX.Data.Common",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
         "projectName": "OLX.Data.Models",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
-                "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj"
+              "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
         "projectName": "OLX.Services.Mapping",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,14 +209,14 @@
         }
       }
     },
-    "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
         "projectName": "OLX.Web.ViewModels",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,11 +233,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj"
+              "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj"
               },
-              "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
-                "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj"
+              "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj"
               }
             }
           }

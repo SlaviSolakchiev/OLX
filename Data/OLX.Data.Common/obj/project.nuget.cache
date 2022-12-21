@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WxpXK3TLbk81a02du7oHr734VoojoV/ZGvDkh03q2BjhTKJ1Nuyi5Ub+cnOfcChj0nQ690dGPzoqRlMdEKWU0A==",
+  "dgSpecHash": "i2PxMLpzWH/dt9Uoch4sCckQVhE1DoBkJusX4nhfm9B01lTy/9Oji/A6oZ53n3XBglg+uKXIAhfZsnXDkk6UdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",

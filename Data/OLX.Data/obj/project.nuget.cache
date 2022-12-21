@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EmQCLnO44JFYPgHDE57bt15OxxZ2dqUNf/WIEdkyYO0JIaa76oBFgOG2Twfw+zHAFvAambs3tBB+AkkRPTRGfw==",
+  "dgSpecHash": "OGcCcEK+aWOqImNraj4TAODp9NX/kw7e8/fwu2ZTPZTJNqG7G7crrKhg3YNz+ybVp/1JaXXT6Cg2m7kdp/1nFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data\\OLX.Data.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data\\OLX.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

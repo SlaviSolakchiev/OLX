@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\OLX.Common\\OLX.Common.csproj",
+      "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\OLX.Common\\OLX.Common.csproj",
       "projectName": "OLX.Common",
-      "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\OLX.Common\\OLX.Common.csproj",
+      "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\OLX.Common\\OLX.Common.csproj",
       "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\OLX.Common\\obj\\",
+      "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\OLX.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

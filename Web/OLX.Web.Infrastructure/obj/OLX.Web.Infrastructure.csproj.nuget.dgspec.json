@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj": {}
+    "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj": {
+    "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
         "projectName": "OLX.Web.Infrastructure",
-        "projectPath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\OLX.Web.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

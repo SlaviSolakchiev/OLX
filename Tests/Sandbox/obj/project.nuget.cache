@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0ieToYkFNMY2qmGjfZTBAeru81XJu6UPbF6cI5vWV9lQijj+1FEMqUowmlhQ+DLgQ6ai5X56PqVGjY6tYxGAg==",
+  "dgSpecHash": "ycFFpkB6uB5329gBQ2AP2DNDPJMDACXQNx5uAhM8XTcTm2CwcqVlEGvp4yC8t+Jh/3e0QjLGVAwQLGyoNBxLLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Tests\\Sandbox\\Sandbox.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Tests\\Sandbox\\Sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",

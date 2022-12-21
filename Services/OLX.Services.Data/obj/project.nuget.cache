@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBxgVSotrOrt4lwBSPqJzmdmL2gXW5FAAlkNMr1kY6rfK/qE5fTvSrU+JrfSK9/LSiTPhmCbjMY5rb41l78Zbw==",
+  "dgSpecHash": "kbOLGBxZnvvXh6lfy6RM6A2tD/JlSCKXLzCf1plt3cFRqS8RGVU05fJcUqHjN6qjPEkUQXdDeQQouxwR/e8hWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Data\\OLX.Services.Data.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Data\\OLX.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

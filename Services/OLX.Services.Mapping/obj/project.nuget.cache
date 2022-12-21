@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXco7CJA9ChAaHNqWXdRwiCf8PuRlHQ8paxfPNo336tZSI6uEf0ZmM9oOVXDgh0gYK4nmH9ebUSD3O6SCep6Sw==",
+  "dgSpecHash": "+6awfBBkmA5xkcu52Zi+f4bKXiSmR697LC6gRY1bUtPPmVVbPqvKrIZiVKr3FhunnEP1FU0HWJmUtW1DghkmAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

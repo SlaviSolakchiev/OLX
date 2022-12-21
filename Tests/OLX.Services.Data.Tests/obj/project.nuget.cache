@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpKjNQXGWIinCIX5TFw/Fjv4Otvs+dGqwrOpTZpCKU+M8ukz2WeFvJUZeitoA2wuhkPcsCmngZ0dx+a2Dywuaw==",
+  "dgSpecHash": "Ut2KFRZUom7lJiNc5/qIDdreiNkFuC47RcnSmmbOsx9FqQ09k4+svgkPfOwRi2pFUs4pQ5zmjRzqKsnqboQYIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Tests\\OLX.Services.Data.Tests\\OLX.Services.Data.Tests.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Tests\\OLX.Services.Data.Tests\\OLX.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",

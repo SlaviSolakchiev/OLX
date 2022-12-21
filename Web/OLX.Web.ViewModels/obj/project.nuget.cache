@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vIN7+LWYgFZ3K7/7Z+Cn1gKEAchEOIilEsWvZnlozQLCn39S2vhhSawHoCt5faA3TSDwpAV9qvJtCciKpdMTjw==",
+  "dgSpecHash": "IktMW3kCr1CcSk6zYKths+dj35GQ0tdcSi0yjk18AudSkK4UgU507j7TvTdfeil8ZoPti+YxwLR6yNF5AJks4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
