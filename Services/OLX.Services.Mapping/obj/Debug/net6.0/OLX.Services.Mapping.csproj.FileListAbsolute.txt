@@ -1,0 +1,12 @@
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\bin\Debug\net6.0\OLX.Services.Mapping.deps.json
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\bin\Debug\net6.0\OLX.Services.Mapping.dll
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\bin\Debug\net6.0\OLX.Services.Mapping.pdb
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.AssemblyInfo.cs
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.dll
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\refint\OLX.Services.Mapping.dll
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\OLX.Services.Mapping.pdb
+C:\Users\slavi\Desktop\kk\Services\OLX.Services.Mapping\obj\Debug\net6.0\ref\OLX.Services.Mapping.dll

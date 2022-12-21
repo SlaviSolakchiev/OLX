@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNPUF5pvQTpHY+Ejk+Fdxs/DNxgPDCYW6+/X+wfTsV88WA/TCNFCX4hAPZtByZoIf+r1G9QTpzN9jNk7Y2YsDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services\\OLX.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
