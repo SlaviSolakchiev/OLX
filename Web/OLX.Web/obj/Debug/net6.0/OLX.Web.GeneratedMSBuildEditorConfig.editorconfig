@@ -56,12 +56,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Ad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Ad/ListAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRcTGlzdEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Ad/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRcVGhhbmtZb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/slavi/Desktop/OLX/Web/OLX.Web/Views/Settings/Index.cshtml]

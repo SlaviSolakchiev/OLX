@@ -10,7 +10,7 @@
     {
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
-            if (dbContext.Settings.Any())
+            if (!dbContext.Settings.Any())
             {
                 return;
             }

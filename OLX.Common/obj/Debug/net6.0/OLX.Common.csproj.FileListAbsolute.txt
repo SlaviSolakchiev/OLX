@@ -10,3 +10,15 @@ C:\Users\slavi\Desktop\kk\OLX.Common\obj\Debug\net6.0\OLX.Common.dll
 C:\Users\slavi\Desktop\kk\OLX.Common\obj\Debug\net6.0\refint\OLX.Common.dll
 C:\Users\slavi\Desktop\kk\OLX.Common\obj\Debug\net6.0\OLX.Common.pdb
 C:\Users\slavi\Desktop\kk\OLX.Common\obj\Debug\net6.0\ref\OLX.Common.dll
+C:\Users\slavi\Desktop\OLX\OLX.Common\bin\Debug\net6.0\OLX.Common.deps.json
+C:\Users\slavi\Desktop\OLX\OLX.Common\bin\Debug\net6.0\OLX.Common.dll
+C:\Users\slavi\Desktop\OLX\OLX.Common\bin\Debug\net6.0\OLX.Common.pdb
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.AssemblyInfo.cs
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.dll
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\refint\OLX.Common.dll
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\OLX.Common.pdb
+C:\Users\slavi\Desktop\OLX\OLX.Common\obj\Debug\net6.0\ref\OLX.Common.dll

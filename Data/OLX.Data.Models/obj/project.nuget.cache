@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "r0GR9rUYAvmbcGpvBEsdro+WXvIx5+rQNa+GmuRUcFJdyjWFTuiBalNlUGmiVl1l+NLjJ6o2MhOYuGf7pMlV5g==",
+  "dgSpecHash": "BoemV/Fqpz0MXPPQOgkA++y2pnM4R4y3ZVl3ljYcT3YkyTcNwrWk6xCo78wApiROM8DeaUSgO2z66zmEeoUqyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
@@ -27,7 +29,10 @@
     "C:\\Users\\slavi\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\slavi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\slavi\\.nuget\\packages\\system.io.abstractions\\19.1.5\\system.io.abstractions.19.1.5.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\testableio.system.io.abstractions\\19.1.5\\testableio.system.io.abstractions.19.1.5.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\19.1.5\\testableio.system.io.abstractions.wrappers.19.1.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\OLX.Data.Common\OLX.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\OLX.Data.Models\OLX.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Web\OLX.Web.ViewModels\OLX.Web.ViewModels.csproj" />
     <ProjectReference Include="..\OLX.Services.Mapping\OLX.Services.Mapping.csproj" />
   </ItemGroup>
 

@@ -10,3 +10,15 @@ C:\Users\slavi\Desktop\kk\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.
 C:\Users\slavi\Desktop\kk\Data\OLX.Data.Common\obj\Debug\net6.0\refint\OLX.Data.Common.dll
 C:\Users\slavi\Desktop\kk\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.pdb
 C:\Users\slavi\Desktop\kk\Data\OLX.Data.Common\obj\Debug\net6.0\ref\OLX.Data.Common.dll
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\bin\Debug\net6.0\OLX.Data.Common.deps.json
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\bin\Debug\net6.0\OLX.Data.Common.dll
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\bin\Debug\net6.0\OLX.Data.Common.pdb
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.AssemblyInfo.cs
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.dll
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\refint\OLX.Data.Common.dll
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\OLX.Data.Common.pdb
+C:\Users\slavi\Desktop\OLX\Data\OLX.Data.Common\obj\Debug\net6.0\ref\OLX.Data.Common.dll

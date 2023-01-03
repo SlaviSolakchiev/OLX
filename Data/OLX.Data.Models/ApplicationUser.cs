@@ -16,6 +16,7 @@ namespace OLX.Data.Models
             this.Roles = new HashSet<IdentityUserRole<string>>();
             this.Claims = new HashSet<IdentityUserClaim<string>>();
             this.Logins = new HashSet<IdentityUserLogin<string>>();
+            this.Ads = new HashSet<Ad>();
         }
 
         // Audit info
@@ -33,5 +34,8 @@ namespace OLX.Data.Models
         public virtual ICollection<IdentityUserClaim<string>> Claims { get; set; }
 
         public virtual ICollection<IdentityUserLogin<string>> Logins { get; set; }
+
+        // Custom properties
+        public virtual ICollection<Ad> Ads { get; set; }
     }
 }

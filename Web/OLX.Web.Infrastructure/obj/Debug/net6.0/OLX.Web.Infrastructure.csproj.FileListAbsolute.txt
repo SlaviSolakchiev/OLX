@@ -10,3 +10,15 @@ C:\Users\slavi\Desktop\kk\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.In
 C:\Users\slavi\Desktop\kk\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\refint\OLX.Web.Infrastructure.dll
 C:\Users\slavi\Desktop\kk\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.pdb
 C:\Users\slavi\Desktop\kk\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\ref\OLX.Web.Infrastructure.dll
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\bin\Debug\net6.0\OLX.Web.Infrastructure.deps.json
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\bin\Debug\net6.0\OLX.Web.Infrastructure.dll
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\bin\Debug\net6.0\OLX.Web.Infrastructure.pdb
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.dll
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\refint\OLX.Web.Infrastructure.dll
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\OLX.Web.Infrastructure.pdb
+C:\Users\slavi\Desktop\OLX\Web\OLX.Web.Infrastructure\obj\Debug\net6.0\ref\OLX.Web.Infrastructure.dll

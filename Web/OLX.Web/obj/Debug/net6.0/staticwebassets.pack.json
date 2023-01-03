@@ -1,63 +1,147 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\css\\site.min.css",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\21d56790-c256-42af-ad85-a01951414a87.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\21d56790-c256-42af-ad85-a01951414a87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\21e9916c-af7b-4da4-8702-3750674e1b9e.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\21e9916c-af7b-4da4-8702-3750674e1b9e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\31bd7798-a799-48ae-8cc1-80465bda60c0.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\31bd7798-a799-48ae-8cc1-80465bda60c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\5333231f-b3b8-4119-a239-a6a8da45f4ac.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\5333231f-b3b8-4119-a239-a6a8da45f4ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\5602f20c-2b3f-496c-a82f-ff959a1d574e.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\5602f20c-2b3f-496c-a82f-ff959a1d574e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\5833c3df-f2c4-4807-af53-baf3c3aa713d.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\5833c3df-f2c4-4807-af53-baf3c3aa713d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\5bb40840-3f2d-4b91-9f1a-e3e521984aab.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\5bb40840-3f2d-4b91-9f1a-e3e521984aab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\780201d4-380d-4137-9949-eb4d50cc5677.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\780201d4-380d-4137-9949-eb4d50cc5677.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\7f086289-a442-4c4a-8c79-34cc60de38a9.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\7f086289-a442-4c4a-8c79-34cc60de38a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\824e299e-9d31-4f3c-984a-b2f4da4398cf.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\824e299e-9d31-4f3c-984a-b2f4da4398cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\8c2971cc-16f8-4af6-af10-d11d625fc60d.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\8c2971cc-16f8-4af6-af10-d11d625fc60d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\93651371-f1cf-4c0f-9596-6af9db67578a.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\93651371-f1cf-4c0f-9596-6af9db67578a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\a9b3b9da-6855-4d38-8ad2-a57156d57c99.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\a9b3b9da-6855-4d38-8ad2-a57156d57c99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\ab2b8f56-0059-4581-94ec-cd0a4de8e9c4.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\ab2b8f56-0059-4581-94ec-cd0a4de8e9c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\adeef512-2eb0-4dd4-b38e-2ea9cb993886.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\adeef512-2eb0-4dd4-b38e-2ea9cb993886.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\b8eb1c2a-3d12-4bdd-8b91-a3f71ea7a758.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\b8eb1c2a-3d12-4bdd-8b91-a3f71ea7a758.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\c52b33c8-f552-4f8c-a6fe-7f8c927e1110.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\c52b33c8-f552-4f8c-a6fe-7f8c927e1110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\d12b5364-48f3-4c46-9ff6-043db740f067.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\d12b5364-48f3-4c46-9ff6-043db740f067.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\de7e5076-91e1-49eb-93c7-98eff4570c06.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\de7e5076-91e1-49eb-93c7-98eff4570c06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\ec1965ed-69fd-4cdb-b836-254ea78efddf.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\ec1965ed-69fd-4cdb-b836-254ea78efddf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\images\\ads\\fc57476d-946d-485f-b44d-9ed19628ca26.jpg",
+      "PackagePath": "staticwebassets\\images\\ads\\fc57476d-946d-485f-b44d-9ed19628ca26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\js\\site.min.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\js\\site.min.js",
       "PackagePath": "staticwebassets\\js\\site.min.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {

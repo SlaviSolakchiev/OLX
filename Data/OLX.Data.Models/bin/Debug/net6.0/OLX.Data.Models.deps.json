@@ -10,10 +10,23 @@
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
           "OLX.Data.Common": "1.0.0",
-          "StyleCop.Analyzers": "1.2.0-beta.435"
+          "OLX.Services.Mapping": "1.0.0",
+          "StyleCop.Analyzers": "1.2.0-beta.435",
+          "System.IO.Abstractions": "19.1.5"
         },
         "runtime": {
           "OLX.Data.Models.dll": {}
+        }
+      },
+      "AutoMapper/11.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.0"
+          }
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/6.0.5": {
@@ -47,6 +60,7 @@
           }
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.EntityFrameworkCore/6.0.5": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "6.0.5",
@@ -231,13 +245,52 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
+      "System.IO.Abstractions/19.1.5": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.1.5",
+          "TestableIO.System.IO.Abstractions.Wrappers": "19.1.5"
+        },
+        "runtime": {
+          "lib/net6.0/System.IO.Abstractions.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "TestableIO.System.IO.Abstractions/19.1.5": {
+        "runtime": {
+          "lib/net6.0/TestableIO.System.IO.Abstractions.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions.Wrappers/19.1.5": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.1.5"
+        },
+        "runtime": {
+          "lib/net6.0/TestableIO.System.IO.Abstractions.Wrappers.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
       "OLX.Data.Common/1.0.0": {
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
         },
         "runtime": {
           "OLX.Data.Common.dll": {}
+        }
+      },
+      "OLX.Services.Mapping/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1"
+        },
+        "runtime": {
+          "OLX.Services.Mapping.dll": {}
         }
       }
     }
@@ -247,6 +300,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+      "path": "automapper/11.0.1",
+      "hashPath": "automapper.11.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/6.0.5": {
       "type": "package",
@@ -268,6 +328,13 @@
       "sha512": "sha512-C8HaR4C2PaSyMjL2OoPBpeRFD9UfbZ7iNyWaR8qVt0oTc2T/OAK1fj2nPScQzgQN7Z0ZnpsEAfL7/cDZu+SHXQ==",
       "path": "microsoft.aspnetcore.identity.entityframeworkcore/6.0.5",
       "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/6.0.5": {
       "type": "package",
@@ -409,6 +476,13 @@
       "path": "system.diagnostics.diagnosticsource/6.0.0",
       "hashPath": "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512"
     },
+    "System.IO.Abstractions/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tOS9FtA8fb/IAVjyaUc4+osF8IpK3i4dsOYJ4R2hoLyLS9D3qKR8nEVb/Y+nDQW5KEbTmLVpC6vEm2UnAZi/HQ==",
+      "path": "system.io.abstractions/19.1.5",
+      "hashPath": "system.io.abstractions.19.1.5.nupkg.sha512"
+    },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -416,7 +490,26 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
+    "TestableIO.System.IO.Abstractions/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jBsuhMdPQ51kbPrXbSPL8R38ARpTlxvUZNBo2XwelTu5XM0P3xEfjwjkTEfUx3EOHIkM1rEHi/Jg0sjt7hpekA==",
+      "path": "testableio.system.io.abstractions/19.1.5",
+      "hashPath": "testableio.system.io.abstractions.19.1.5.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions.Wrappers/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hFJ3IYSMw9B6do5uYQSzlbvFVNFS7iS3H5nej8h/9QY468Z1rFWjgNK4aqInYO4Yvft1GpLnzcpsZbqX+TraeA==",
+      "path": "testableio.system.io.abstractions.wrappers/19.1.5",
+      "hashPath": "testableio.system.io.abstractions.wrappers.19.1.5.nupkg.sha512"
+    },
     "OLX.Data.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OLX.Services.Mapping/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

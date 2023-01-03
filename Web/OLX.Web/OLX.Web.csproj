@@ -47,4 +47,8 @@
     <ProjectReference Include="..\OLX.Web.Infrastructure\OLX.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\OLX.Web.ViewModels\OLX.Web.ViewModels.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\ads\" />
+  </ItemGroup>
 </Project>

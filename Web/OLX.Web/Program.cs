@@ -2,7 +2,7 @@ namespace OLX.Web
 {
     using System;
     using System.Reflection;
-
+    using AutoMapper;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Identity;
@@ -72,6 +72,8 @@ options.UseSqlServer(connectionString));
             // Application services
             services.AddTransient<IEmailSender, NullMessageSender>();
             services.AddTransient<ISettingsService, SettingsService>();
+            services.AddTransient<ICategoriesService, CategoriesService>();
+            services.AddTransient<IAdService, AdService>();
         }
 
         private static void Configure(WebApplication app)

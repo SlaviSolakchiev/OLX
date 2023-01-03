@@ -97,6 +97,9 @@
             "projectReferences": {
               "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj": {
                 "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common\\OLX.Data.Common.csproj"
+              },
+              "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj"
               }
             }
           }
@@ -120,6 +123,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.2.0-beta.435, )"
+            },
+            "System.IO.Abstractions": {
+              "target": "Package",
+              "version": "[19.1.5, )"
             }
           },
           "imports": [
@@ -334,6 +341,9 @@
               },
               "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
                 "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj"
+              },
+              "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj"
               }
             }
           }
@@ -656,6 +666,80 @@
             "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.435, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
+        "projectName": "OLX.Web.ViewModels",
+        "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\OLX.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models\\OLX.Data.Models.csproj"
+              },
+              "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping\\OLX.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",

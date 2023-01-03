@@ -10,3 +10,15 @@ C:\Users\slavi\Desktop\kk\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.S
 C:\Users\slavi\Desktop\kk\Services\OLX.Services.Messaging\obj\Debug\net6.0\refint\OLX.Services.Messaging.dll
 C:\Users\slavi\Desktop\kk\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.pdb
 C:\Users\slavi\Desktop\kk\Services\OLX.Services.Messaging\obj\Debug\net6.0\ref\OLX.Services.Messaging.dll
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\bin\Debug\net6.0\OLX.Services.Messaging.deps.json
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\bin\Debug\net6.0\OLX.Services.Messaging.dll
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\bin\Debug\net6.0\OLX.Services.Messaging.pdb
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.AssemblyInfo.cs
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.dll
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\refint\OLX.Services.Messaging.dll
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\OLX.Services.Messaging.pdb
+C:\Users\slavi\Desktop\OLX\Services\OLX.Services.Messaging\obj\Debug\net6.0\ref\OLX.Services.Messaging.dll

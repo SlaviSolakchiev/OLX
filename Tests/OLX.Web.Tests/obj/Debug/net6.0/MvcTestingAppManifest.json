@@ -1,13 +1,13 @@
 {
-  "OLX.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\OLX.Common",
-  "OLX.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Common",
-  "OLX.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data",
-  "OLX.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Data\\OLX.Data.Models",
-  "OLX.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Data",
-  "OLX.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services",
-  "OLX.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Mapping",
-  "OLX.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Services\\OLX.Services.Messaging",
-  "OLX.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web",
-  "OLX.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.Infrastructure",
-  "OLX.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web.ViewModels"
+  "OLX.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\OLX.Common",
+  "OLX.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Common",
+  "OLX.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data",
+  "OLX.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data.Models",
+  "OLX.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Data",
+  "OLX.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services",
+  "OLX.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Mapping",
+  "OLX.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Services\\OLX.Services.Messaging",
+  "OLX.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web",
+  "OLX.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.Infrastructure",
+  "OLX.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web.ViewModels"
 }

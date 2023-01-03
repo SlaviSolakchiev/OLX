@@ -1,0 +1,45 @@
+﻿@model OLX.Web.ViewModels.Ad.AdsListViewModel
+
+
+@{
+    this.ViewData["Title"] = "All Recipes";
+}
+<hr />
+
+
+<div class="row m-auto">
+    @foreach (var ad in Model.Ads)
+    {
+        <div class="card col-md-3">
+            <div style="width:100px;">
+                <img class="card-img-top" src="@ad.ImageUrl" alt="Card image cap" max-width="100px">
+            </div>
+            <div class="card-body" width>
+                <h5 class="card-title">@ad.Title</h5>
+                @ad.CategoryName
+            </div>
+        </div>
+    }
+</div>
+
+
+<hr />
+
+<nav aria-label="...">
+    <ul class="pagination justify-content-center">
+        <li class="page-item disabled">
+            <span class="page-link">Previous</span>
+        </li>
+        <li class="page-item"><a class="page-link" href="#">1</a></li>
+        <li class="page-item active">
+            <span class="page-link">
+                2
+                <span class="sr-only"></span>
+            </span>
+        </li>
+        <li class="page-item"><a class="page-link" href="#">3</a></li>
+        <li class="page-item">
+            <a class="page-link" href="#">Next</a>
+        </li>
+    </ul>
+</nav>

@@ -1,4 +1,4 @@
-﻿namespace OLX.Data.Common.Models
+﻿    namespace OLX.Data.Common.Models
 {
     using System;
 

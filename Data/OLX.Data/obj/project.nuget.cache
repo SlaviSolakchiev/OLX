@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OGcCcEK+aWOqImNraj4TAODp9NX/kw7e8/fwu2ZTPZTJNqG7G7crrKhg3YNz+ybVp/1JaXXT6Cg2m7kdp/1nFQ==",
+  "dgSpecHash": "z0YdQ4W5yw7GwT/zIuzbjqNUhKHFEco1rOfdWgLaXbW9c5ljC/uvkh3bBmgY1cHPHWuKxzEd9ZLnxDkLYcAyYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\slavi\\Desktop\\OLX\\Data\\OLX.Data\\OLX.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.5.nupkg.sha512",
-    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
@@ -53,6 +54,7 @@
     "C:\\Users\\slavi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\system.io.abstractions\\19.1.5\\system.io.abstractions.19.1.5.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
@@ -63,7 +65,9 @@
     "C:\\Users\\slavi\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\slavi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\slavi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\testableio.system.io.abstractions\\19.1.5\\testableio.system.io.abstractions.19.1.5.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\19.1.5\\testableio.system.io.abstractions.wrappers.19.1.5.nupkg.sha512"
   ],
   "logs": []
 }

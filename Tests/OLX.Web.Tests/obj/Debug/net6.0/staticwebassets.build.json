@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "dEOVlWjWnIVs7hccjBZNAr5eu24BEguVUcswqdlsM+E=",
+  "Hash": "DYOxi4YkEZAMKfjK975G/ACLoSdVv0/QsOWzhBi/wVs=",
   "Source": "OLX.Web.Tests",
   "BasePath": "_content/OLX.Web.Tests",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\OLX.Web.csproj",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\OLX.Web.csproj",
       "Version": 2,
       "Source": "OLX.Web",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "OLX.Web\\wwwroot",
       "Source": "OLX.Web",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\css\\site.css",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -46,10 +46,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\css\\site.min.css",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -63,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\favicon.ico",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\js\\site.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\js\\site.min.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\js\\site.min.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "OLX.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\slavi\\Desktop\\kk\\Web\\OLX.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\slavi\\Desktop\\OLX\\Web\\OLX.Web\\wwwroot\\",
       "BasePath": "_content/OLX.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
