@@ -50,5 +50,6 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\images\ads\" />
+    <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 </Project>
