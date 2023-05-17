@@ -164,3 +164,6 @@ C:\Users\slavi\Desktop\OLX\Tests\Sandbox\obj\Debug\net6.0\refint\Sandbox.dll
 C:\Users\slavi\Desktop\OLX\Tests\Sandbox\obj\Debug\net6.0\Sandbox.pdb
 C:\Users\slavi\Desktop\OLX\Tests\Sandbox\obj\Debug\net6.0\Sandbox.genruntimeconfig.cache
 C:\Users\slavi\Desktop\OLX\Tests\Sandbox\obj\Debug\net6.0\ref\Sandbox.dll
+C:\Users\slavi\Desktop\OLX\Tests\Sandbox\bin\Debug\net6.0\System.IO.Abstractions.dll
+C:\Users\slavi\Desktop\OLX\Tests\Sandbox\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\slavi\Desktop\OLX\Tests\Sandbox\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.Wrappers.dll

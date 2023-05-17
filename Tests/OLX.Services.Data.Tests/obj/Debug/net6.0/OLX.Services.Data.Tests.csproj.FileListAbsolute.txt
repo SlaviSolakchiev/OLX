@@ -379,3 +379,6 @@ C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\obj\Debug\net6.0\refint
 C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\obj\Debug\net6.0\OLX.Services.Data.Tests.pdb
 C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\obj\Debug\net6.0\OLX.Services.Data.Tests.genruntimeconfig.cache
 C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\obj\Debug\net6.0\ref\OLX.Services.Data.Tests.dll
+C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\bin\Debug\net6.0\System.IO.Abstractions.dll
+C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\slavi\Desktop\OLX\Tests\OLX.Services.Data.Tests\bin\Debug\net6.0\TestableIO.System.IO.Abstractions.Wrappers.dll

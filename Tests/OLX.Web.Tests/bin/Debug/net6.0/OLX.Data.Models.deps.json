@@ -11,7 +11,8 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
           "OLX.Data.Common": "1.0.0",
           "OLX.Services.Mapping": "1.0.0",
-          "StyleCop.Analyzers": "1.2.0-beta.435"
+          "StyleCop.Analyzers": "1.2.0-beta.435",
+          "System.IO.Abstractions": "19.1.5"
         },
         "runtime": {
           "OLX.Data.Models.dll": {}
@@ -244,7 +245,38 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
+      "System.IO.Abstractions/19.1.5": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.1.5",
+          "TestableIO.System.IO.Abstractions.Wrappers": "19.1.5"
+        },
+        "runtime": {
+          "lib/net6.0/System.IO.Abstractions.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "TestableIO.System.IO.Abstractions/19.1.5": {
+        "runtime": {
+          "lib/net6.0/TestableIO.System.IO.Abstractions.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions.Wrappers/19.1.5": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.1.5"
+        },
+        "runtime": {
+          "lib/net6.0/TestableIO.System.IO.Abstractions.Wrappers.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.1.5.18658"
+          }
+        }
+      },
       "OLX.Data.Common/1.0.0": {
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
@@ -444,12 +476,33 @@
       "path": "system.diagnostics.diagnosticsource/6.0.0",
       "hashPath": "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512"
     },
+    "System.IO.Abstractions/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tOS9FtA8fb/IAVjyaUc4+osF8IpK3i4dsOYJ4R2hoLyLS9D3qKR8nEVb/Y+nDQW5KEbTmLVpC6vEm2UnAZi/HQ==",
+      "path": "system.io.abstractions/19.1.5",
+      "hashPath": "system.io.abstractions.19.1.5.nupkg.sha512"
+    },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jBsuhMdPQ51kbPrXbSPL8R38ARpTlxvUZNBo2XwelTu5XM0P3xEfjwjkTEfUx3EOHIkM1rEHi/Jg0sjt7hpekA==",
+      "path": "testableio.system.io.abstractions/19.1.5",
+      "hashPath": "testableio.system.io.abstractions.19.1.5.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions.Wrappers/19.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hFJ3IYSMw9B6do5uYQSzlbvFVNFS7iS3H5nej8h/9QY468Z1rFWjgNK4aqInYO4Yvft1GpLnzcpsZbqX+TraeA==",
+      "path": "testableio.system.io.abstractions.wrappers/19.1.5",
+      "hashPath": "testableio.system.io.abstractions.wrappers.19.1.5.nupkg.sha512"
     },
     "OLX.Data.Common/1.0.0": {
       "type": "project",
