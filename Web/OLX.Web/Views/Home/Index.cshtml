@@ -1,9 +1,26 @@
-﻿@using OLX.Common
+﻿@model OLX.Web.ViewModels.Home.CategoryInputModel
+@using OLX.Common
 @{
     this.ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+<link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+
+<section class="main-categories">
+    <h1>Главни категории</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        @foreach (var item in Model.Categories)
+        {
+
+            <input asp-controller="Ad" asp-action="AdsByCategory" asp-for="Id" type="submit" class="btn btn-link" value="@item.Value"/>
+
+            <p></p>
+        }
+
+    </form>
+
+
+</section>
+
