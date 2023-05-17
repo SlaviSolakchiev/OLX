@@ -4,42 +4,43 @@
 @{
     this.ViewData["Title"] = "All Recipes";
 }
-<hr />
+<link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+
+<section class="container">
 
 
-<div class="row m-auto">
-    @foreach (var ad in Model.Ads)
-    {
-        <div class="card col-md-3">
-            <div style="width:100px;">
-                <img class="card-img-top" src="@ad.ImageUrl" alt="Card image cap" max-width="100px">
+    <div class="row justify-content-center align-items-center">
+        @foreach (var ad in Model.Ads)
+        {
+            <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 col-sm-12 cart">
+                <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 cardd">
+                    <div class="card-image">
+                        <a asp-controller="Ad" asp-action="OpenedAd" asp-route-title="@ad.Title"><img src="@ad.ImageUrl"></a>
+                    </div>
+
+                    <div class="content-box">
+                        <div class="card-content">
+                            <div class="card-adTitle">
+                                <h1><a asp-controller="Ad" asp-action="OpenedAd" asp-route-title="@ad.Title">@ad.Title</a></h1>
+                            </div>
+                            <div class="card-adCategory">
+                                <p>@ad.CategoryName</p>
+                            </div>
+
+                            <div class="card-adDescription">
+                                <p>@ad.Description</p>
+                            </div>
+
+                            <div class="card-adPrice">
+                                <p>@ad.Price лв.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="card-body" width>
-                <h5 class="card-title">@ad.Title</h5>
-                @ad.CategoryName
-            </div>
-        </div>
-    }
-</div>
+        }
 
+    </div>
+</section>
 
-<hr />
-
-<nav aria-label="...">
-    <ul class="pagination justify-content-center">
-        <li class="page-item disabled">
-            <span class="page-link">Previous</span>
-        </li>
-        <li class="page-item"><a class="page-link" href="#">1</a></li>
-        <li class="page-item active">
-            <span class="page-link">
-                2
-                <span class="sr-only"></span>
-            </span>
-        </li>
-        <li class="page-item"><a class="page-link" href="#">3</a></li>
-        <li class="page-item">
-            <a class="page-link" href="#">Next</a>
-        </li>
-    </ul>
-</nav>
+<partial name="_PagingPartial" model="@Model" />
